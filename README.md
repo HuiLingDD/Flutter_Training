@@ -2,7 +2,7 @@
 
 取得Json資料
 
-園區資訊內容採用：[國立中正紀念堂管理處園區建築生態導覽](https://data.gov.tw/dataset/160218)
+園區資訊內容採用：[國立中正紀念堂管理處園區建築生態導覽-影音目錄](https://data.gov.tw/dataset/160218)
 
 其餘圖片採用：[pixabay](https://pixabay.com/)
 
