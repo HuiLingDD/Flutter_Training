@@ -13,14 +13,14 @@
     <th>info_page</th>
   </tr>
   <tr>
-    <td>
-        <img src="https://github.com/HuiLingDD/Flutter_Training/blob/master/login_page.png" height="600"/>
+    <td valign="top">
+        <img src="https://github.com/HuiLingDD/Flutter_Training/blob/master/login_page.png"/>
     </td>
-    <td>
-        <img src="https://github.com/HuiLingDD/Flutter_Training/blob/master/home_page.png" height="600"/>
+    <td valign="top">
+        <img src="https://github.com/HuiLingDD/Flutter_Training/blob/master/home_page.png"/>
     </td>
-    <td>
-        <img src="https://github.com/HuiLingDD/Flutter_Training/blob/master/info_page.png" height="600"/>
+    <td valign="top">
+        <img src="https://github.com/HuiLingDD/Flutter_Training/blob/master/info_page.png"/>
     </td>
   </tr>
 </table>
